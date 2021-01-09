@@ -8,6 +8,8 @@ public static void main(String[] args) {
 			count=count+i;
 		}
 		}
+	System.out.println("Print the count");
 	System.out.println(count);
 }
+
 }
