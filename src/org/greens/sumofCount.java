@@ -8,9 +8,10 @@ public static void main(String[] args) {
 			count=count+i;
 		}
 		}
-	System.out.println("Print the count");
+	System.out.println("Print the count1");
 	System.out.println(count);
 	System.out.println("Successfully Printed");
+	System.out.println("Print the count3");
 }
 
 }
