@@ -10,7 +10,7 @@ public static void main(String[] args) {
 		}
 	System.out.println("Print the count1");
 	System.out.println(count);
-	System.out.println("Print the count2");
+	System.out.println("Print the count3");
 }
 
 }
