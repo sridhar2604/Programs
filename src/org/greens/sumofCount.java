@@ -9,5 +9,6 @@ public static void main(String[] args) {
 		}
 		}
 	System.out.println(count);
+	System.out.println("Successfully Printed");
 }
 }
